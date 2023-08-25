@@ -17,6 +17,11 @@ body {
   background-color: orange;
 }
 
+.titles{
+    text-align: center;
+    color: black;
+}
+
 .container{
     width: 100vmin;
     padding: 60px 50px;
